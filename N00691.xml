@@ -114,8 +114,10 @@
    <text xml:lang="eng">
       <body>
          <div type="proclamation">
-            <pb facs="tcp:000837_0000_0FABA15AACA87EC0" rendition="simple:additions"/>
-            <pb facs="tcp:000837_0001_0FABA32083CF5F50" rendition="simple:additions"/>
+            <pb facs="unknown:000837_0000_0FABA15AACA87EC0"
+                rendition="simple:additions"/>
+            <pb facs="unknown:000837_0001_0FABA32083CF5F50"
+                rendition="simple:additions"/>
             <head>
                <figure/> By His Excellency <hi>Richard Earle of Bellomont</hi> Captain General and Governour in Chief of His Majeſties Province of <hi>New-York, &amp;c.</hi> A PROCLAMATION</head>
             <p>WHEREAS His Majeſty by his Letters Patents hath appointed me Captain General and Gover<g ref="char:EOLhyphen"/>nour in Chief of the Province of <hi>New-York.</hi> &amp;c. I have therefore Thought fit by the Advice of his Majeſties Council to Continue all Officers Civil and Military within the ſaid Province, in their reſpective Offices and places until further order, and all his Majeſties Subjects are hereby required to comport themſelves accordingly.</p>
